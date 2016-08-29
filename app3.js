@@ -1,4 +1,5 @@
 //http://www.cse.wustl.edu/~kjg/cse131/Notes/Recursion/recursion.html
+//www.reddit.com/r/dailyprogrammer/comments/4uhqdb/20160725_challenge_277_easy_simplifying_fractions/d6kqto4
 
 console.log('---------------------------------------------------------')
 function reduce(num, den){
